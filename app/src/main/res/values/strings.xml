@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorDemoSeekBar</string>
+    <string name="_000">#000</string>
+    <string name="rgb_0_0_0">RGB (0,0,0)</string>
+</resources>
